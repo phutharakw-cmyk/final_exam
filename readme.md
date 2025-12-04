@@ -18,13 +18,13 @@ that have customer driver and each have their function in it.
 - Delivery order : the class that came after the customer order and have the delivery method.
 
 ### Methods
-For Person
+#### For Person
 - `lintroduce` : they can say hi and there name.
-For Customer  
+#### For Customer  
 - `place_order` : they can place order to driver.
-For Driver
+#### For Driver
 - `deliver` : this is show thing that driver have to do
-For Delivery order.
+#### For Delivery order.
 - `assign_driver` : to put a driver to the customer
 - `delivery_item` : to get the driver delivery the item and update status.
 - `summary` : to print all of data that have like customer name item or driver name.
