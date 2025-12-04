@@ -33,6 +33,33 @@ that have customer driver and each have their function in it.
 
 the code can creat the customer and driver and it will simulate the delivery oder and show it in the output
 
+## example out put
+
+Hi, I'm Alice
+Hi, I'm Bob
+Hi, I'm David
+
+Order Summary:
+tem: labtop
+Customer: Alice
+Status: preparing
+Driver: David
+
+Order Summary:
+tem: Headphones
+Customer: Bob
+Status: preparing
+Driver: David
+
+David is delivering labtop to Alice using Middle of nowhere.
+Order for labtop → delivered
+David is delivering Headphones to Bob using Middle of nowhere.
+Order for Headphones → delivered
+
+Final Status:
+Order for labtop → delivered
+Order for Headphones → delivered
+
 ---
 
 ## Running the Program
